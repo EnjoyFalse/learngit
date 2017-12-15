@@ -1,2 +1,3 @@
-Git is a version control system. 	//hahaha
-Git is free software. 			//hahahaha hello
+Git is a distributed version control system.
+Git is free software.
+nimei
